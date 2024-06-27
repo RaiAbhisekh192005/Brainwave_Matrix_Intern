@@ -15,4 +15,3 @@ During this internship, I focused on various aspects of cloud computing, includi
 - **Infrastructure Optimization**: Worked on optimizing cloud infrastructure for cost-efficiency, performance, and scalability.
 - **Collaborative Learning**: Collaborated with a team of cloud computing experts, contributing to various stages of project development and implementation.
 
-### Repository Structure
